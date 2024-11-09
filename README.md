@@ -1,4 +1,4 @@
-#This is a desktop application that allows users to select location of scuba dive, select dive type, and enter the number in a dive team to calculate the total dive cost of the oceanic scuba expedition.
+# This is a desktop application that allows users to select location of scuba dive, select dive type, and enter the number in a dive team to calculate the total dive cost of the oceanic scuba expedition.
 
 *Steps To Run and Test the Application*
 
